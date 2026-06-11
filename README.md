@@ -24,8 +24,8 @@ pip install pyserial matplotlib
 3. main.py에서 포트 번호 수정(COM1,COM2 등등)
 4. 파이썬 실행
 
-## 그래프 사진
-![alt](images\Figure_1.png)
+## 그래프 사진(예시)
+![alt](https://github.com/cnut-git/ultrasonic-distance-visualizer/blob/53255e298c194fb6d42057d9851dc40987d1fef1/images/Figure_1.png)
 
 ## 확장 계획
 여러 개의 초음파 센서를 배열하여 물체의 대략적인 윤곽을 추정하는 방식으로 확장 고려
