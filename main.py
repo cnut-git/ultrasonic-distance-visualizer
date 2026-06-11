@@ -19,8 +19,8 @@ plt.rcParams['font.size'] = 12
 
 fig, ax = plt.subplots()
 ax.axis([0, 70, 0, 70])
-ax.set_xlabel('Data Type')
-ax.set_ylabel('Distribution')
+ax.set_xlabel('')
+ax.set_ylabel('Distance')
 rect = patches.Rectangle(
             (0, current_value),     
             70, 10,                
