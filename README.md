@@ -18,9 +18,9 @@
 ## 실행 방법
 1. 아두이노에 ultrasonic_sensor.ino 업로드
 2. 파이썬 패키지 설치
-
+```bash
 pip install pyserial matplotlib
-
+```
 3. main.py에서 포트 번호 수정(COM1,COM2 등등)
 4. 파이썬 실행
 
