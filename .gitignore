@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store
+
+# Python
+*.log
+
+# Arduino build/cache
+build/
+*.hex
+*.elf
